@@ -1,6 +1,8 @@
 # Arduino CAN LCD
 This is a simple example using an Arduino to display on a I²C LCD some information coming from the CAN bus over SPI with a MCP2515 controller, and sending CAN frames when the buttons are pressed.
 
+![alt text](doc/Arduino-CAN-LCD.png)
+
 ## Hardware parts
 - Arduino
 - Grove RGB backlight: http://wiki.seeedstudio.com/Grove-LCD_RGB_Backlight/
